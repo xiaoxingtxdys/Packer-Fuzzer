@@ -5,3 +5,4 @@ docx2pdf
 docx2txt
 node_vm2
 python-docx
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
